@@ -6,15 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/sanket_bhattad" target="blank"><img src="https://img.shields.io/twitter/follow/sanketbhattad?logo=twitter&style=for-the-badge" alt="sanketbhattad"  </p>
 
-- 🔭 I’m currently working on **Tata Consultancy Services**
+- 🔭 I’m currently working for **Tata Consultancy Services**
 
-- 🌱 I’m currently learning **NodeJS,Express and MongoDB**
-
-- 💬 Ask me about **HTML/CSS , Reactjs**
+- 🌱 I’m profient in **HTML, CSS, JavaScript, ReactJS, Redux**. Also Currently learning **NodeJS, Express and MongoDB**
 
 - 📫 How to reach me **snktbhattad@gmail.com**
 
-- ⚡ Fun fact **I am Funny as well as serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
